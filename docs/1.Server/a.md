@@ -39,4 +39,4 @@ Set-VMProcessor -VMName "proxmox" -ExposeVirtualizationExtensions $true
 ````
 Use the first command again to check to see if that worked.
 
-Proxmox does not like the virtual video hardware in Hyper-V. To do the install, I use text mode.
+I download the Proxmox ISO, 8.4. I have problems running 9.x on Hyper-V.
