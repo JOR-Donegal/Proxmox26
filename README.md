@@ -1,5 +1,4 @@
-# MKTemplate
-Template for new teaching notes
+# Proxmox
+28MAY26: Transcribed old notes from GITBOOK
 
-1. Edit mkdocs to name the project and add a URL
-2. 
+Green color scheme
