@@ -4,7 +4,7 @@ I already have an internal switch with domain controllers from a previous exerci
 I power up one domain controller and check that I have working DHCP.
 
 <figure>
-<img src = "https://jor-donegal.github.io/Proxmox/images/fig1.jpg">
+<img src = "https://jor-donegal.github.io/Proxmox26/images/fig1.jpg">
 <figcaption>Fig 1. Recce.</figcaption>
 </figure>
 

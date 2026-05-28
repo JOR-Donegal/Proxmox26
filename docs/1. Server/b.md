@@ -14,6 +14,6 @@ I need to be able to use it for later, more complex exercises, so its important 
 I make sure to enable nested virtualization (Virtualize Intel VT-x). In recent times, it can be messy to make this work, check my VMWare Workstation notes for some hints.
 
 <figure>
-<img src = "https://jor-donegal.github.io/Proxmox/images/fig2.jpg">
+<img src = "https://jor-donegal.github.io/Proxmox26/images/fig2.jpg">
 <figcaption>Fig 2. VMWare Processors.</figcaption>
 </figure>
