@@ -11,9 +11,9 @@ I power up one domain controller and check that I have working DHCP.
 
 I assume you are very familiar with Hyper-V
 
-I create a VM called __Proxmox__ as my gold image.
+I create a VM called __Proxmox8__ as my gold image.
 
-I specify 
+I specify
 
 1. Generation 1
 2. 4096 MB of DRAM with dynamic memory

@@ -1,4 +1,4 @@
-# Install on VMWare Workstation
+# Install on Workstation
 
 
 ## Hyper-V
