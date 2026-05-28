@@ -17,3 +17,9 @@ I make sure to enable nested virtualization (Virtualize Intel VT-x). In recent t
 <img src = "https://jor-donegal.github.io/Proxmox26/images/fig2.jpg">
 <figcaption>Fig 2. VMWare Processors.</figcaption>
 </figure>
+
+I used Debian 12 as VM type.
+
+If you are installing on bare metal, the process will be the same, just without the VMWare activities.
+
+I download the Proxmox ISO, 8.4.
